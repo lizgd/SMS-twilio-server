@@ -1,0 +1,9 @@
+Resources:
+
+Installing a Twilio dev environment: https://www.twilio.com/docs/quickstart/python/devenvironment
+
+Creating your first Twilio app: https://www.twilio.com/docs/quickstart/python/sms/sending-via-rest
+
+Installing Ngrok: https://ngrok.com/
+
+Replying to Messages: https://www.twilio.com/docs/quickstart/python/sms/hello-monkey
